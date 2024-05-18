@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif, 'Playfair Display';
     background-color: #f4f4f9;
     margin: 0;
     display: flex;
@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+    font-family: 'Playfair Display';
     background: #fff;
     padding: 20px;
     border-radius: 8px;
